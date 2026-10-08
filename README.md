@@ -18,7 +18,7 @@ Matching and priority are done in code. An LLM is used only to turn the filtered
 
 ```text
 triage.py        lookup, version check, priority, team, report
-grok_ticket.py   send out/ai_input.md to the xAI API
+AI_ticket.py   send out/ai_input.md to the xAI API
 report_pdf.py    build out/triage.pdf
 packages.txt     host package version, one per line
 out/             report, tickets, PDF
