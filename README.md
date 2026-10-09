@@ -89,7 +89,3 @@ On a lab host, nginx 1.18.0 overlapped CVE-2023-44487, which is in CISA KEV, so 
 - Grok does not decide whether the host is vulnerable. It only writes the ticket text.
 
 Do not commit `XAI_API_KEY`, `out/grok_raw.json`, or scan files from a network you do not own.
-
-https://github.com/user-attachments/assets/6fb96280-adf2-49f6-bf17-845a009e00e4
-
-
