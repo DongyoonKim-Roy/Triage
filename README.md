@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/68612c57-c702-4214-a582-89358b5407b2
+
+
+
 # CVE triage
 
 nmap service banners are matched to public CVEs and turned into owner-specific tickets. This is not a CVE research tool and it does not generate exploit steps.
@@ -84,5 +90,6 @@ On a lab host, nginx 1.18.0 overlapped CVE-2023-44487, which is in CISA KEV, so 
 
 Do not commit `XAI_API_KEY`, `out/grok_raw.json`, or scan files from a network you do not own.
 
+https://github.com/user-attachments/assets/6fb96280-adf2-49f6-bf17-845a009e00e4
 
 
